@@ -1,0 +1,19 @@
+
+h2{
+color: magenta;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 100%;
+
+}
+
+body{
+background: blue;
+
+
+}
+
+div{background: pink;
+border: purple;
+border-width: yellow;
+border-style: blue;
+}
