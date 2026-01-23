@@ -8,6 +8,7 @@ font-size: 100%;
 
 body{
 background: blue;
+background-repeat: no-repeat;
 
 
 }
@@ -16,4 +17,10 @@ div{background: pink;
 border: purple;
 border-width: yellow;
 border-style: blue;
+}
+
+span{
+background: red;
+color: white;
+
 }
