@@ -8,15 +8,46 @@ font-size: 100%;
 
 body{
 background: blue;
-background-repeat: no-repeat;
+
 
 
 }
 
 div{background: pink;
 border: purple;
-border-width: yellow;
-border-style: blue;
+
+}
+
+.box1{
+width: 100px;
+height: 100px;
+position: relative;
+background: aquamarine;
+
+
+}
+
+.pictures{
+    background: yellow;
+border-style: solid;
+border-color: black;
+border-width:  10px;
+
+}
+
+.box2{
+background-color: purple;
+position: absolute;
+top:100px;
+left: 400px;
+
+}
+
+#idexample{
+background: cyan;
+border-style: solid;
+border-color: whitesmoke;
+border-width:  5px;
 }
 
 span{
