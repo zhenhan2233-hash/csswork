@@ -1,0 +1,30 @@
+body{
+background: #F6F0D7;
+}
+
+.photo{
+    width: 250px;
+    height: 250px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #C5D89D;
+    margin-top: 20px;
+}
+
+#title{
+     width: 200px;
+     height: 100px;
+     background: #C5D89D;
+     position: relative;
+
+color: #89986D;
+
+font-size: large;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#info{
+margin-top: 10px;
+
+}
